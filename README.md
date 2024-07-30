@@ -39,7 +39,7 @@ ContextBridge-Semantic-Internal-Link-Tool is an advanced Python script designed 
 
 2. Run the script:
    ```bash
-   python script.py
+   python contextbridge.py
    ```
 
 3. The script will process your data and generate an Excel file named `internal_linking_results.xlsx` with the suggested internal linking opportunities.
@@ -60,7 +60,7 @@ This script makes multiple API calls to OpenAI, which may incur costs. Make sure
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/ContextBridge-Semantic-Internal-Link-Tool/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/itsbariscan/ContextBridge-Semantic-Internal-Link-Tool/issues) if you want to contribute.
 
 ## License
 
